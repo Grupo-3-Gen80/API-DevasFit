@@ -27,11 +27,11 @@ public class Treinos {
 	private String link;
 	
 	@ManyToOne
-	@JsonIgnoreProperties("Treinos")
+	@JsonIgnoreProperties("treinos")
 	private Categoria categoria;
 	
 	@ManyToOne
-	@JsonIgnoreProperties("Treinos")
+	@JsonIgnoreProperties("treinos")
 	private Usuario usuario;
 
 	
