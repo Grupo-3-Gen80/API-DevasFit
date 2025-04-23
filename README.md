@@ -72,4 +72,4 @@ Um sistema de gerenciamento de treinos, onde usuários podem ter múltiplos trei
 - **Insomnia**: API
 
 ## Link Render
-https://devasfit.onrender.com/swagger-ui/index.html
+https://devasfit.onrender.com
