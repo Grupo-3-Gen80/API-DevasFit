@@ -18,7 +18,6 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.generation.devasfit.model.Categoria;
 import com.generation.devasfit.model.Usuario;
 import com.generation.devasfit.repository.UsuarioRepository;
 import com.generation.devasfit.service.UsuarioService;
